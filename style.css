@@ -1,0 +1,81 @@
+html{
+  height:100%;
+  background-image:
+  url('https://thumbs.dreamstime.com/b/vintage-tulle-pink-chiffon-dress-diamond-tiara-wooden-white-table-wedding-girl-s-party-concept-96730418.jpg');
+  background-size:cover;
+}
+
+#banner{
+font-family: 'Pangolin', cursive;
+padding-top:22%;
+font-size:35px;
+display:flex;
+justify-content:center;
+color:#7866b0 ;
+}
+#heading{
+  height:100%;
+  font-family:'Pangolin';
+  display:flex;
+  justify-content:space-around;
+  color:#9d66b0;
+}
+.navbar{
+  display:flex;
+  justify-content:space-around;
+  background-color:white; 
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+}
+.navbar a{
+    float:left
+    display:block;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+    color:#9370DB;
+    font-family:'Pangolin';
+  }
+  
+.navbar a:hover {
+ color: white;
+ background: #9370DB;
+}
+  
+img{
+  width:200px;
+  length:300px;
+}
+
+.project-container{
+  margin-top:20%;
+  display:flex;
+  width:100%;
+  height:100%;
+  justify-content:center;
+color:#7866b0 ;
+}
+p{
+ height:100%;
+  font-family:'Pangolin';
+  display:flex;
+  justify-content:space-around;
+  color:#9d66b0;
+}
+.heading2{
+ height:100%;
+  font-family:'Pangolin';
+  display:flex;
+  justify-content:space-around;
+  color:#9d66b0;
+}
+
+.heading3{
+height:100%;
+  font-family:'Pangolin';
+  display:flex;
+  justify-content:space-around;
+  color:#7866b0;
+}
